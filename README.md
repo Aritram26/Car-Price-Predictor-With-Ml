@@ -1,6 +1,3 @@
-Sure! Here's a sample README file for your Car Price Predictor project. This README includes sections such as project description, installation instructions, usage, and contribution guidelines.
-
-```markdown
 # Car Price Predictor
 
 This project is a Car Price Predictor application built using Machine Learning. It predicts the price of a car based on various features such as the car's name, company, year of manufacture, kilometers driven, and fuel type.
@@ -21,11 +18,6 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 Make sure you have Python and Git installed on your system.
 
-### Clone the repository
-```sh
-git clone https://github.com/Aritram26/Car-Price-Predictor-With-Ml.git
-cd Car-Price-Predictor-With-Ml
-```
 
 ### Install required packages
 Create a virtual environment and install the necessary dependencies:
@@ -84,10 +76,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Jinja2](https://jinja.palletsprojects.com/)
 ```
 
-### How to Use the README
-
-1. Create a `README.md` file in the root of your project directory.
-2. Copy the above markdown content into the `README.md` file.
-3. Save the file.
-
-This README provides a comprehensive guide for anyone who wants to understand, install, and contribute to your Car Price Predictor project.
