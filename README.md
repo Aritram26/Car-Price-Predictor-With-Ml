@@ -62,5 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Flask](https://flask.palletsprojects.com/)
 - [Jinja2](https://jinja.palletsprojects.com/)
-```
 
